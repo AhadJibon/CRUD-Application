@@ -6,6 +6,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+##  About the project
+The project is about laravel CRUD. It has Some features such as Creat,Read,Update and Delete post. We can also upload image in this crud.
+We used laravel framework in this project.
+
+## Video link
+**Here is the video link of project overview** <br/>
+(https://drive.google.com/file/d/13_mbeBp0RVZB_h0f37owOXmz4YV74vuV/view?usp=share_link)<br/>
 
 ## About Laravel
 
